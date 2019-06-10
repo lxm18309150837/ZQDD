@@ -1,0 +1,5 @@
+{
+  "scripts/test_login.py::TestLogin::()::test_city_inter_information[2019-6-6-\\u5e7f\\u4e1c-\\u88c5\\u673a\\u5730\\u5740-IPv4-22-22-222-2222]": true,
+  "scripts/test_login.py::TestLogin::()::test_local_inter_information[2019-6-1-\\u88c5\\u673a\\u5730\\u5740-IPv4-22-22-222-2222]": true,
+  "scripts/test_login.py::TestLogin::()::test_order_ok": true
+}
