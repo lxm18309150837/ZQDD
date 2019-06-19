@@ -62,3 +62,4 @@ class TestLogin():
     @allure.step("信息预览页-方法操作")
     def test_order_ok(self):
         self.order.page_order_ok()
+
