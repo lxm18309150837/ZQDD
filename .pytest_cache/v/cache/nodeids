@@ -1,7 +1,0 @@
-[
-  "scripts/test_login.py::TestLogin::()::test_login[panyalin-Xh75oN-38282778]",
-  "scripts/test_login.py::TestLogin::()::test_search_client[5151051200403300377]",
-  "scripts/test_login.py::TestLogin::()::test_add_inter",
-  "scripts/test_login.py::TestLogin::()::test_city_inter_information[2019-6-6-\\u88c5\\u673a\\u5730\\u5740-IPv4-22-22-222-2222]",
-  "scripts/test_login.py::TestLogin::()::test_order_ok"
-]
